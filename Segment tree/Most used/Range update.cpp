@@ -10,7 +10,6 @@
 /*
  Min/Max segment tree
  build: O(N)
- update: O(log(N))
  query: O(log(N))
  */
 
@@ -25,10 +24,23 @@ const int INFINITY = INT_MAX;
 int N;
 int queryCount;
 int data[MAX_SIZE];
+int lazy[MAX_SIZE << 2];
 int stree[MAX_SIZE << 2];
+
 
 void merge(int I) {// change operator according to your demands
     stree[I] = min(stree[I << 1], stree[I << 1 | 1]);
+}
+void push(int I, int low, int high) {
+    if (lazy[I]) {
+        // change the following line according to your demands
+        stree[I] = lazy[I];
+        if (low != high) {
+            lazy[I << 1] = lazy[I];
+            lazy[I << 1 | 1] = lazy[I];
+        }
+        lazy[I] = 0;
+    }
 }
 void buildTree(int I, int low, int high) {
     if (low == high) {
@@ -40,21 +52,23 @@ void buildTree(int I, int low, int high) {
     buildTree(I << 1 | 1, middle + 1, high);
     merge(I);
 }
-void pointUpdate(int I, int low, int high, int position, int newValue) {
-    if (low == high) {
-        stree[I] = newValue;
+void rangeUpdate(int I, int low, int high, int leftBorder, int rightBorder, int newValue) {
+    push(I, low, high);
+    if (low > rightBorder || high < leftBorder) {
+        return;
+    }
+    if (low >= leftBorder && high <= rightBorder) {
+        lazy[I] = newValue;
+        push(I, low, high);
         return;
     }
     int middle = (low + high) >> 1;
-    if (position <= middle) {
-        pointUpdate(I << 1, low, middle, position, newValue);
-    }
-    else {
-        pointUpdate(I << 1 | 1, middle + 1, high, position, newValue);
-    }
+    rangeUpdate(I << 1, low, middle, leftBorder, rightBorder, newValue);
+    rangeUpdate(I << 1 | 1, middle + 1, high, leftBorder, rightBorder, newValue);
     merge(I);
 }
 int query(int I, int low, int high, int l, int r) {
+    push(I, low, high);
     if (low > r || high < l) {
         return INFINITY;
     }
@@ -79,10 +93,10 @@ int main() {
         cin >> type;
         
         if (type == 1) { // update query
-            int position;
+            int leftBorder, rightBorder;
             int newValue;
-            cin >> position >> newValue;
-            pointUpdate(1, 1, N, position, newValue);
+            cin >> leftBorder >> rightBorder >> newValue;
+            rangeUpdate(1, 1, N, leftBorder, rightBorder, newValue);
         }
         else { // ask query
             int leftBorder, rightBorder;
