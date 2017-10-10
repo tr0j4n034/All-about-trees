@@ -11,3 +11,6 @@
 11. http://www.spoj.com/problems/IITWPC4D/
 12. http://www.spoj.com/problems/ILKQUERYIII/
 13. http://www.spoj.com/problems/KGSS/
+14. http://www.spoj.com/problems/LITE/
+15. http://www.spoj.com/problems/MKTHNUM/ 	*****
+16. http://www.spoj.com/problems/MULTQ3/
