@@ -1,1 +1,2 @@
 1. http://www.spoj.com/problems/ADALIST/
+2. http://www.spoj.com/problems/HORRIBLE/
