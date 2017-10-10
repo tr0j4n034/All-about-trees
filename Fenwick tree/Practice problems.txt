@@ -1,3 +1,5 @@
 1. http://www.spoj.com/problems/NDS/
 2. http://www.spoj.com/problems/AKVQLD03/
 3. http://www.spoj.com/problems/BRDGHRD/
+4. http://www.spoj.com/problems/BRIDGE/
+5. http://www.spoj.com/problems/CODESPTB/

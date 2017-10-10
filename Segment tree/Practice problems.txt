@@ -1,1 +1,4 @@
 1. http://www.spoj.com/problems/BLUNIQ/
+2. http://www.spoj.com/problems/CDC12_H/
+3. http://www.spoj.com/problems/CNTPRIME/
+4. http://www.spoj.com/problems/COT/
