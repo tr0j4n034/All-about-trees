@@ -9,3 +9,5 @@
 9. http://www.spoj.com/problems/HELPR2D2/
 10. http://www.spoj.com/problems/HORRIBLE/
 11. http://www.spoj.com/problems/IITWPC4D/
+12. http://www.spoj.com/problems/ILKQUERYIII/
+13. http://www.spoj.com/problems/KGSS/
