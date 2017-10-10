@@ -5,3 +5,4 @@
 5. http://www.spoj.com/problems/CODESPTB/
 6. http://www.spoj.com/problems/CTRICK/
 7. http://www.spoj.com/problems/DCEPC206/
+8. http://www.spoj.com/problems/IITWPC4D/
