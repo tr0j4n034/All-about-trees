@@ -3,3 +3,4 @@
 3. http://www.spoj.com/problems/BRDGHRD/
 4. http://www.spoj.com/problems/BRIDGE/
 5. http://www.spoj.com/problems/CODESPTB/
+6. http://www.spoj.com/problems/CTRICK/
