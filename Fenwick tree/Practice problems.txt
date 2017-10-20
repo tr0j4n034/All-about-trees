@@ -11,23 +11,16 @@
 11. http://www.spoj.com/problems/DCEPC14A/
 12. http://spoj.com/problems/ADARAINB/
 13. http://spoj.com/problems/ASSIST/
-14. http://spoj.com/problems/BRDGHRD/
-15. http://spoj.com/problems/BRIDGE/
-16. http://spoj.com/problems/CODESPTB/
-17. http://spoj.com/problems/CTRICK/
-http://spoj.com/problems/DCEPC206/
-http://spoj.com/problems/FENTREE/
-http://spoj.com/problems/INCSEQ/
-http://spoj.com/problems/KAOS/
-http://spoj.com/problems/KQUERY/
-http://spoj.com/problems/KQUERY2/
-http://spoj.com/problems/MCHAOS/
-http://spoj.com/problems/NDS/
-http://spoj.com/problems/NICEDAY/
-http://spoj.com/problems/PWRARR/
-http://spoj.com/problems/RANGESUM/
-http://spoj.com/problems/RATING/
-http://spoj.com/problems/SUMSUM/
-http://spoj.com/problems/TRIPINV/
-http://spoj.com/problems/YODANESS/
-http://spoj.com/problems/
+14. http://spoj.com/problems/FENTREE/
+15. http://spoj.com/problems/INCSEQ/
+16. http://spoj.com/problems/KAOS/
+17. http://spoj.com/problems/KQUERY/
+18. http://spoj.com/problems/KQUERY2/
+19. http://spoj.com/problems/MCHAOS/
+20. http://spoj.com/problems/NICEDAY/
+21. http://spoj.com/problems/PWRARR/
+22. http://spoj.com/problems/RANGESUM/
+23. http://spoj.com/problems/RATING/
+24. http://spoj.com/problems/SUMSUM/
+25. http://spoj.com/problems/TRIPINV/
+26. http://spoj.com/problems/YODANESS/
