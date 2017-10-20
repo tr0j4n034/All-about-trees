@@ -1,2 +1,8 @@
 1. http://www.spoj.com/problems/ADALIST/
 2. http://www.spoj.com/problems/HORRIBLE/
+3. http://www.spoj.com/problems/AROPE3/
+4. http://www.spoj.com/problems/QUE2/
+5. http://www.spoj.com/problems/RMID/
+6. http://www.spoj.com/problems/RRSCHED/
+7. http://www.spoj.com/problems/SAMTWARR/
+8. http://www.spoj.com/problems/TWIST/

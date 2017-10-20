@@ -6,3 +6,28 @@
 6. http://www.spoj.com/problems/CTRICK/
 7. http://www.spoj.com/problems/DCEPC206/
 8. http://www.spoj.com/problems/IITWPC4D/
+9. http://www.spoj.com/problems/GSS4/
+10. http://www.spoj.com/problems/SAS001/
+11. http://www.spoj.com/problems/DCEPC14A/
+12. http://spoj.com/problems/ADARAINB/
+13. http://spoj.com/problems/ASSIST/
+14. http://spoj.com/problems/BRDGHRD/
+15. http://spoj.com/problems/BRIDGE/
+16. http://spoj.com/problems/CODESPTB/
+17. http://spoj.com/problems/CTRICK/
+http://spoj.com/problems/DCEPC206/
+http://spoj.com/problems/FENTREE/
+http://spoj.com/problems/INCSEQ/
+http://spoj.com/problems/KAOS/
+http://spoj.com/problems/KQUERY/
+http://spoj.com/problems/KQUERY2/
+http://spoj.com/problems/MCHAOS/
+http://spoj.com/problems/NDS/
+http://spoj.com/problems/NICEDAY/
+http://spoj.com/problems/PWRARR/
+http://spoj.com/problems/RANGESUM/
+http://spoj.com/problems/RATING/
+http://spoj.com/problems/SUMSUM/
+http://spoj.com/problems/TRIPINV/
+http://spoj.com/problems/YODANESS/
+http://spoj.com/problems/

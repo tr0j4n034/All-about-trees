@@ -14,3 +14,49 @@
 14. http://www.spoj.com/problems/LITE/
 15. http://www.spoj.com/problems/MKTHNUM/ 	*****
 16. http://www.spoj.com/problems/MULTQ3/
+17. http://www.spoj.com/problems/ADACROP/
+18. http://www.spoj.com/problems/ADATREE/
+19. http://www.spoj.com/problems/BILLI/
+20. http://www.spoj.com/problems/BUBBLESORT/
+21. http://www.spoj.com/problems/EVENFRQ/
+22. http://www.spoj.com/problems/MEDIAN3/
+23. http://www.spoj.com/problems/SAS001/
+24. http://www.spoj.com/problems/NAJMS/
+25. http://www.spoj.com/problems/SPCU/
+26. http://www.spoj.com/problems/TPGAME/
+27. http://www.spoj.com/problems/ADATAXES/
+28. http://www.spoj.com/problems/KQUERYO/
+29. http://www.spoj.com/problems/ADABERRY/
+30. http://www.spoj.com/problems/BGSHOOT/
+31. http://www.spoj.com/problems/BLUNIQ/
+32. http://www.spoj.com/problems/CDC12_H/
+33. http://www.spoj.com/problems/COT/
+34. http://www.spoj.com/problems/COUNT1IT/
+35. http://www.spoj.com/problems/COURAGE/
+36. http://www.spoj.com/problems/DISQUERY/
+37. http://www.spoj.com/problems/DWARFLOG/
+38. http://www.spoj.com/problems/GOT/
+http://www.spoj.com/problems/GSS1/
+http://www.spoj.com/problems/GSS3/
+http://www.spoj.com/problems/HELPR2D2/
+http://www.spoj.com/problems/IITWPC4D/
+http://www.spoj.com/problems/ILKQUERY/
+http://www.spoj.com/problems/ILKQUERY2/
+http://www.spoj.com/problems/ILKQUERYIII/
+http://www.spoj.com/problems/KGSS/
+http://www.spoj.com/problems/KOILINE/
+http://www.spoj.com/problems/LITE/
+http://www.spoj.com/problems/MKTHNUM/
+http://www.spoj.com/problems/MULTQ3/
+http://www.spoj.com/problems/PATULJCI/
+http://www.spoj.com/problems/PLNDTREE/
+http://www.spoj.com/problems/POSTERS/
+http://www.spoj.com/problems/RRSCHED/
+http://www.spoj.com/problems/SALMAN/
+http://www.spoj.com/problems/SANTA1/
+http://www.spoj.com/problems/THRBL/
+http://www.spoj.com/problems/TIEROPE/
+http://www.spoj.com/problems/
+http://www.spoj.com/problems/
+http://www.spoj.com/problems/
+http://www.spoj.com/problems/
