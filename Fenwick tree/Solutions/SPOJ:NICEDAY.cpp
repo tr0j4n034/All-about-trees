@@ -1,3 +1,9 @@
+/*
+ O(T * N * log(N)) solution using segment trees.
+ The problem can be seen as a different usage of fenwick trees,
+ as here it acts like range minimum query data structure.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

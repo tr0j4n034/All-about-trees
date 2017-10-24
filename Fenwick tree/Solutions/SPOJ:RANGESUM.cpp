@@ -1,3 +1,9 @@
+/*
+ O((N + Q) * log(MAX)) solution using fenwick trees.
+ As only ~10^5 numbers can be appended to the front of the array,
+ we can keep initial numbers 10^5 postions to the right.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
@@ -36,7 +42,6 @@ long long get(int pos){
 int main() {
     //ios_base::sync_with_stdio(0);
     //cin.tie(0);
-    /// http://www.spoj.com/problems/TREAP/
     
     scanf("%d", &n);
     int free_slot = fixx;

@@ -1,3 +1,9 @@
+/*
+ O(N * log(N)) solution using Fenwick trees.
+ In order to get rid of input strings, we can assign them unique numbers
+ according to their lexicographical order.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

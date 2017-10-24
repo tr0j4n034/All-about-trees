@@ -1,3 +1,8 @@
+/*
+ O(T * N * log(N)) solution using fenwick trees.
+ It's the popular inversion counting problem which can be efficiently solved by fenwick trees.
+ */
+
 #include <bits/stdc++.h>
  
 using namespace std;
@@ -25,6 +30,7 @@ int get(int pos){
         s += ft[pos];
     return s;
 }
+
 int main() {
     ios_base::sync_with_stdio(0);
     cin.tie(0);

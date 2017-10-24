@@ -1,3 +1,9 @@
+/*
+ O(N * log(MAX)) solution using Fenwick trees.
+ The problem is enhanced version of popular inversion counting problem.
+ */
+
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

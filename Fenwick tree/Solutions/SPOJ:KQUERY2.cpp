@@ -1,3 +1,8 @@
+/*
+ O(N * log(N) + Q * sqrt(N) * log(N)) solution using fenwick trees and sqrt decomposition.
+ Fast input and output techniques are used to boost I/O processes.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

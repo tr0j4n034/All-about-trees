@@ -1,3 +1,8 @@
+/*
+ O((N + Q) * MAXBITS * log(N)) solution using fenwick trees.
+ It's easier to calculate the result by considering each bit every time.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

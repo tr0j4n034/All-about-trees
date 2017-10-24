@@ -1,3 +1,8 @@
+/*
+ O((N + Q) * log(N)) solution with fenwick trees.
+ A smart sort in input queries, just process them according to their 'k' value.
+ */
+
 #include <bits/stdc++.h>
  
 using namespace std;

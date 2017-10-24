@@ -1,3 +1,8 @@
+/*
+ O(N * K * log(MAX)) solution using fenwick trees and dynamic programming
+ Process dp by increasing order of length of subsequences.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

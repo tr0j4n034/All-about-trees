@@ -1,3 +1,11 @@
+/*
+ O(N * log(N)) solution with fenwick trees.
+ First thing we need to do is get rid of input strings.
+ Let's sort them and assign an integer to each of them.
+ Now, problem reduced to finding prefix sums which can be done with fenwick trees.
+ */
+
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
