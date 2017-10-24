@@ -1,3 +1,9 @@
+/*
+ O((N + Q) * log(N)) solution by using implicit segment trees.
+ The solution can be boosted with static pool of pointers, instead of creating nodes everytime needed.
+ */
+
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

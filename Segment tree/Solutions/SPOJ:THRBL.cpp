@@ -1,3 +1,7 @@
+/*
+ O(N + Q * log(N)) solution by using Max segment tree.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

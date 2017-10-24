@@ -1,10 +1,16 @@
 //
 //  main.cpp
-//  Dolphin
+//  practice
 //
 //  Created by Mahmud on 1/07/17.
 //  Copyright © 2017 Mahmud. All rights reserved.
 //
+
+
+/*
+ O(T * N * log(N)) solution with segment trees.
+ Be careful when analyzing merge function.
+ */
 
 #include <iostream>
 #include <cstdio>

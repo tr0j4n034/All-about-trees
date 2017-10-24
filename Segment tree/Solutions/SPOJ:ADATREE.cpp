@@ -7,6 +7,12 @@
 //
 
 
+/*
+ O(N * log(N) + Q * log^2(N)) solution by using merge sort tree.
+ Nodes in the segment tree represent sorted list of elements in specified ranges.
+ By the way, the problem can be solved in O((N + Q) * log(N)) by using persistent segment trees as well.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cmath>

@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Dolphin
+//  practice
 //
 //  Created by Mahmud on 29/06/17.
 //  Copyright © 2017 Mahmud. All rights reserved.

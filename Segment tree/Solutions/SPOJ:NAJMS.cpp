@@ -1,10 +1,16 @@
 //
 //  main.cpp
-//  Dolphin
+//  practice
 //
 //  Created by Mahmud on 14/07/17.
 //  Copyright © 2017 Mahmud. All rights reserved.
 //
+
+
+/*
+ O(T * (N + Q * log(N))) solution by using segment trees.
+ Lazy propogation technique is used to handle range updates.
+ */
 
 #include <iostream>
 #include <cstdio>

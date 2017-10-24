@@ -1,3 +1,8 @@
+/*
+ O(N * log(N)) solution with segment and fenwick trees.
+ In order to select every element once, their position is updated with infinite value.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

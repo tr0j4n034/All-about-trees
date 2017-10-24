@@ -6,6 +6,12 @@
 //  Copyright © 2017 Mahmud. All rights reserved.
 //
 
+
+/*
+ O((N + Q) * log(N)) solution with persistent segment trees.
+ Coordinate compression technique is used to eliminate extra log() factor.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>

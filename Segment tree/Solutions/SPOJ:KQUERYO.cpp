@@ -1,10 +1,16 @@
 //
 //  main.cpp
-//  Dolphin
+//  practice
 //
 //  Created by Mahmud on 10/06/17.
 //  Copyright © 2017 Mahmud. All rights reserved.
 //
+
+
+/*
+ O(N + Q * log(N)) solution by using merge sort tree
+ Fast input techniques are used to boost input process.
+ */
 
 #include <iostream>
 #include <cstdio>

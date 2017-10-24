@@ -1,3 +1,8 @@
+/*
+ O(Q * log(N)) solution with Min/Max segment tree.
+ Just think how we can easily check whether the given range satisfies the input conditions.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

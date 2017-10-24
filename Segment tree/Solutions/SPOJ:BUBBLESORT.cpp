@@ -7,6 +7,11 @@
 //
 
 
+/*
+ O(T * N * log(N)) solution by using fenwick trees.
+ Coordinate compression technique is used to eliminate extra log() factor.
+ */
+
 #include <iostream>
 #include <algorithm>
 #include <vector>

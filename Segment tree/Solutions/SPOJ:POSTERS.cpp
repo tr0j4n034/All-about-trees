@@ -1,5 +1,10 @@
+/*
+ O(T * N * log(N)) solution with segment trees.
+ Lazy propogation technique is used to handle range updates.
+ */
+
 #include <bits/stdc++.h>
- 
+
 using namespace std;
  
 const int me = 200025;

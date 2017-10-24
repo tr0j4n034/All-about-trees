@@ -1,3 +1,9 @@
+/*
+ O((N + Q) * log(N)) solution with persistent segment trees.
+ Fast input and output (!) techniques are used in the solution to boost I/O processes.
+ Binary lifting method is used to handle LCA queries.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

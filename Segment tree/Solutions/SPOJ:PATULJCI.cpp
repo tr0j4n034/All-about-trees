@@ -1,3 +1,8 @@
+/*
+ O((N + Q) * log(N)) solution by using persistent segment trees.
+ Analyze carefully how n-th element in a range is found.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

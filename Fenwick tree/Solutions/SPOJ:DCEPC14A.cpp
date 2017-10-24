@@ -1,10 +1,16 @@
 //
 //  main.cpp
-//  Dolphin
+//  practice
 //
 //  Created by Mahmud on 7/07/17.
 //  Copyright © 2017 Mahmud. All rights reserved.
 //
+
+
+/*
+ O(N * M * log^2(MAX)) solution with 2D Fenwick trees.
+ Consider how to solve the problem if we insert numbers to matrix one by one in increasing order.
+ */
 
 #include <iostream>
 #include <cstdio>

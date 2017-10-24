@@ -1,3 +1,10 @@
+/*
+ O((N + Q) * log(N)) solution with persistent segment trees.
+ Fast input techniques have been used to boost the input process.
+ The constant in the solution is very big, hence running time is quite high.
+ */
+
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

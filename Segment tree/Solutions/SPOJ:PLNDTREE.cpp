@@ -1,3 +1,10 @@
+/*
+ O(N + Q * log(N)) solution with segment trees.
+ Basic assumption is that we need to find out whether there exists more than one
+ letter having odd occurences in a particular range.
+ */
+
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

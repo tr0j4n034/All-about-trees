@@ -1,3 +1,9 @@
+/*
+ O(N * log(N) + Q * log^2(N)) solution with segment trees.
+ Values are compressed to eliminate extra log() factor.
+
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

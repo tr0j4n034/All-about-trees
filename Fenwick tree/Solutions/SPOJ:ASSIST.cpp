@@ -1,3 +1,8 @@
+/*
+ O(T * N * log^2(N)) solution with fenwick trees
+ I want to note that in my solution, there are a few unnecessary computations which can be omitted safely.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

@@ -1,3 +1,7 @@
+/*
+ O(T * N * log(N)) solution with fenwick trees
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

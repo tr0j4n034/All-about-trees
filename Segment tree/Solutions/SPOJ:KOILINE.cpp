@@ -1,3 +1,8 @@
+/*
+ O(N * log(N)) solution with segment trees.
+ In order to skip already used elements, their values are set to negative.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
@@ -19,6 +24,7 @@ using namespace std;
 
 const int me = 200025;
 const int INF = 1 << 30;
+
 struct node{
     int value;
     int pos;

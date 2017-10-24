@@ -1,3 +1,8 @@
+/*
+ O((N + Q) * log(MAX)) solution with Fenwick trees.
+ */
+
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

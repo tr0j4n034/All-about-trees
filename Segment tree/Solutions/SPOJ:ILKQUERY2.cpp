@@ -1,3 +1,8 @@
+/*
+ O((N + Q) * log(N)) solution with persistent segment trees.
+ Fast input and output techniques have been used to boost I/O processes.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

@@ -1,3 +1,9 @@
+/*
+ O(T * (N + Q * log(N))) solution with segment trees.
+ Range updates are handled by lazy propagation techniques.
+ */
+
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

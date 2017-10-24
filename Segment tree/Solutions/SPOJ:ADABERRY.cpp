@@ -1,4 +1,10 @@
 #include <iostream>
+/*
+ O(Q * log(N)) solution by using segment trees
+ DFS traversal has been used to renumerate segments(ranges)
+ */
+
+
 #include <cstdio>
 #include <cstdlib>
 #include <cmath>

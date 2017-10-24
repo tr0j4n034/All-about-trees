@@ -1,3 +1,9 @@
+/*
+ O((N + Q) * log(N)) solution by using segment trees.
+ Lazy propogation technique is used to handle range updates.
+ Coordinate compression is used to get rid of extra log(N) factor.
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

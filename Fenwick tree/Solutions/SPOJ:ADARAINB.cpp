@@ -1,3 +1,7 @@
+/*
+ O((N + M) * log^2(N)) solution with 2D Fenwick trees
+ */
+
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>

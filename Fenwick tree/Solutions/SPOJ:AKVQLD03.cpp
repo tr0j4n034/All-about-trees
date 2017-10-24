@@ -1,3 +1,7 @@
+/*
+ O(Q * log(MAX)) solution with fenwick trees
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
