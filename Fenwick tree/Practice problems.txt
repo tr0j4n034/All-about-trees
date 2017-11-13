@@ -24,3 +24,4 @@
 24. http://spoj.com/problems/SUMSUM/
 25. http://spoj.com/problems/TRIPINV/
 26. http://spoj.com/problems/YODANESS/
+27. http://spoj.com/problems/CRAYON/
