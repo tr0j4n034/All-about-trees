@@ -25,3 +25,4 @@
 25. http://spoj.com/problems/TRIPINV/
 26. http://spoj.com/problems/YODANESS/
 27. http://spoj.com/problems/CRAYON/
+28. http://spoj.com/problems/KPMATRIX/
