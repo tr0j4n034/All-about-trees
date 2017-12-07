@@ -27,7 +27,7 @@ int queryCount;
 int data[MAX_SIZE];
 int stree[MAX_SIZE << 2];
 
-void merge(int I) {// change operator according to your demands
+inline void merge(int I) {// change operator according to your demands
     stree[I] = min(stree[I << 1], stree[I << 1 | 1]);
 }
 void buildTree(int I, int low, int high) {
