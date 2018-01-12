@@ -26,3 +26,4 @@
 26. http://spoj.com/problems/YODANESS/
 27. http://spoj.com/problems/CRAYON/
 28. http://spoj.com/problems/KPMATRIX/
+29. http://www.spoj.com/problems/XMEDIAN/
