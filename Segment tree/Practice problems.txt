@@ -44,3 +44,4 @@
 44. http://www.spoj.com/problems/TIEROPE/
 45. http://www.spoj.com/problems/ADAGRAFT/
 46. http://www.spoj.com/problems/XXXXXXXX/
+47. http://www.spoj.com/problems/TEMPLEQ/
