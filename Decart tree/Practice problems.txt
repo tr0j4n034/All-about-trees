@@ -8,3 +8,5 @@
 8. http://www.spoj.com/problems/TWIST/
 9. http://www.spoj.com/problems/QMAX3VN/
 10. http://www.spoj.com/problems/CARDFLIP/
+11. https://www.e-olymp.com/en/problems/686
+12. https://www.e-olymp.com/en/problems/688
