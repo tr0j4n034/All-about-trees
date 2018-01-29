@@ -45,3 +45,4 @@
 45. http://www.spoj.com/problems/ADAGRAFT/
 46. http://www.spoj.com/problems/XXXXXXXX/
 47. http://www.spoj.com/problems/TEMPLEQ/
+48. http://www.spoj.com/problems/SBO/
