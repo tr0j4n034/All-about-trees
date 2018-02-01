@@ -9,5 +9,9 @@
 9. http://www.spoj.com/problems/QMAX3VN/
 10. http://www.spoj.com/problems/CARDFLIP/
 11. https://www.e-olymp.com/en/problems/686
-12. https://www.e-olymp.com/en/problems/688
-13. https://www.e-olymp.com/en/problems/689
+12. https://www.e-olymp.com/en/problems/687
+13. https://www.e-olymp.com/en/problems/688
+14. https://www.e-olymp.com/en/problems/689
+15. https://www.e-olymp.com/en/problems/2310
+16. https://www.e-olymp.com/en/problems/3615
+17. https://www.e-olymp.com/en/problems/5284
