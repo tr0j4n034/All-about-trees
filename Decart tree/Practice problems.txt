@@ -15,3 +15,4 @@
 15. https://www.e-olymp.com/en/problems/2310
 16. https://www.e-olymp.com/en/problems/3615
 17. https://www.e-olymp.com/en/problems/5284
+18. http://www.spoj.com/problems/HEAPULM/
