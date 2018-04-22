@@ -29,3 +29,4 @@
 29. http://www.spoj.com/problems/XMEDIAN/
 30. http://www.spoj.com/problems/MATSUM/
 31. http://www.spoj.com/problems/INCDSEQ/
+32. http://www.spoj.com/problems/LIS2/
