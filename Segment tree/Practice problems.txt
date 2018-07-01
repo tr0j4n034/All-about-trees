@@ -47,3 +47,5 @@
 47. http://www.spoj.com/problems/TEMPLEQ/
 48. http://www.spoj.com/problems/SBO/
 49. http://www.spoj.com/problems/PRIMEP/
+50. http://codeforces.com/contest/786/problem/C
+51. https://www.spoj.com/problems/GIVEAWAY/
