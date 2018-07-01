@@ -49,3 +49,5 @@
 49. http://www.spoj.com/problems/PRIMEP/
 50. http://codeforces.com/contest/786/problem/C
 51. https://www.spoj.com/problems/GIVEAWAY/
+52. http://codeforces.com/contest/85/problem/D
+53. https://www.spoj.com/problems/FREQUENT/
