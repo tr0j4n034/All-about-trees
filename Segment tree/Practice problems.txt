@@ -52,3 +52,4 @@
 52. http://codeforces.com/contest/85/problem/D
 53. https://www.spoj.com/problems/FREQUENT/
 54. https://www.spoj.com/problems/MOZPWS/
+55. https://www.spoj.com/problems/ZING01/
