@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Quadtree
+
+http://www.cs.tau.ac.il/~haimk/seminar12b/Quadtrees.pdf
