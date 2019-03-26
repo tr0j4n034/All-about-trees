@@ -143,7 +143,6 @@ void rollBack(int I, int lowx, int highx, int lowy, int highy, int x, int X, int
     lazy[I] = lazy[I * 4 - 2] + lazy[I * 4 - 1] + lazy[I * 4] + lazy[I * 4 + 1];
 }
 
-
 int main() {
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);

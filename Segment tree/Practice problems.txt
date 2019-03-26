@@ -53,3 +53,4 @@
 53. https://www.spoj.com/problems/FREQUENT/
 54. https://www.spoj.com/problems/MOZPWS/
 55. https://www.spoj.com/problems/ZING01/
+56. https://www.spoj.com/problems/CLFLARR/
